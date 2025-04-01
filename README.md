@@ -7,7 +7,7 @@
 
 ---
 
-🎓 I'm a first year university student studying **Software Engineering**, passionate about tech, programming, software development, the entire shabang!
+🎓 I'm a first year university student studying **Software Engineering**, passionate about tech, programming, software development, the whole shabang!
 
 🛠️ Currently learning:
 - 🌐 Web Development (JavaScript, TypeScript, React)
@@ -52,7 +52,7 @@
 
 ### 📫 Reach Out To Me
 
-- 💬 Ask me about anything tech-related (hardware or software
+- 💬 Ask me about anything tech-related (hardware or software)
 - ✉️ [chrislowxiaohiang2@gmail.com] 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zip-me-up-896513302/)
 
